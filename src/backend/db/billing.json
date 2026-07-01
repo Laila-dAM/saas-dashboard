@@ -1,0 +1,83 @@
+{
+  "plans": [
+    {
+      "id": "basic",
+      "name": "Basic",
+      "price": 9,
+      "currency": "USD",
+      "interval": "month",
+      "features": [
+        "Analytics",
+        "Email Support",
+        "Basic Reports"
+      ]
+    },
+    {
+      "id": "pro",
+      "name": "Pro",
+      "price": 29,
+      "currency": "USD",
+      "interval": "month",
+      "features": [
+        "Advanced Analytics",
+        "API Access",
+        "Priority Support",
+        "Unlimited Projects"
+      ]
+    },
+    {
+      "id": "enterprise",
+      "name": "Enterprise",
+      "price": 99,
+      "currency": "USD",
+      "interval": "month",
+      "features": [
+        "Unlimited Everything",
+        "Dedicated Support",
+        "Custom Integrations",
+        "Advanced Security",
+        "Custom SLA"
+      ]
+    }
+  ],
+  "subscription": {
+    "id": "sub_001",
+    "userId": "1",
+    "planId": "pro",
+    "status": "active",
+    "startedAt": "2026-01-10T09:00:00Z",
+    "currentPeriodStart": "2026-06-10T00:00:00Z",
+    "currentPeriodEnd": "2026-07-10T00:00:00Z",
+    "nextBillingDate": "2026-07-10T00:00:00Z",
+    "autoRenew": true
+  },
+  "paymentHistory": [
+    {
+      "id": "pay_001",
+      "date": "2026-06-10",
+      "amount": 29,
+      "currency": "USD",
+      "status": "paid",
+      "method": "Visa **** 4242",
+      "invoice": "INV-2026-006"
+    },
+    {
+      "id": "pay_002",
+      "date": "2026-05-10",
+      "amount": 29,
+      "currency": "USD",
+      "status": "paid",
+      "method": "Visa **** 4242",
+      "invoice": "INV-2026-005"
+    },
+    {
+      "id": "pay_003",
+      "date": "2026-04-10",
+      "amount": 29,
+      "currency": "USD",
+      "status": "paid",
+      "method": "Visa **** 4242",
+      "invoice": "INV-2026-004"
+    }
+  ]
+}

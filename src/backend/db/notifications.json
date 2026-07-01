@@ -1,0 +1,82 @@
+[
+  {
+    "id": "notif_001",
+    "title": "Welcome",
+    "message": "Welcome to the SaaS Dashboard.",
+    "type": "info",
+    "read": false,
+    "createdAt": "2026-07-01T08:00:00Z"
+  },
+  {
+    "id": "notif_002",
+    "title": "Subscription Renewed",
+    "message": "Your Pro subscription has been renewed successfully.",
+    "type": "success",
+    "read": false,
+    "createdAt": "2026-07-01T08:30:00Z"
+  },
+  {
+    "id": "notif_003",
+    "title": "New User Registered",
+    "message": "A new user has joined your workspace.",
+    "type": "info",
+    "read": true,
+    "createdAt": "2026-07-01T09:10:00Z"
+  },
+  {
+    "id": "notif_004",
+    "title": "Payment Failed",
+    "message": "A customer payment could not be processed.",
+    "type": "error",
+    "read": false,
+    "createdAt": "2026-07-01T10:15:00Z"
+  },
+  {
+    "id": "notif_005",
+    "title": "Storage Warning",
+    "message": "You have used 85% of your available storage.",
+    "type": "warning",
+    "read": false,
+    "createdAt": "2026-07-01T11:20:00Z"
+  },
+  {
+    "id": "notif_006",
+    "title": "Weekly Report Ready",
+    "message": "Your weekly analytics report is available.",
+    "type": "success",
+    "read": true,
+    "createdAt": "2026-07-01T12:00:00Z"
+  },
+  {
+    "id": "notif_007",
+    "title": "API Key Created",
+    "message": "A new API key was generated for your account.",
+    "type": "info",
+    "read": false,
+    "createdAt": "2026-07-01T12:40:00Z"
+  },
+  {
+    "id": "notif_008",
+    "title": "Security Alert",
+    "message": "A login from a new device was detected.",
+    "type": "warning",
+    "read": false,
+    "createdAt": "2026-07-01T13:05:00Z"
+  },
+  {
+    "id": "notif_009",
+    "title": "Server Maintenance",
+    "message": "Scheduled maintenance will begin tonight at 11:00 PM UTC.",
+    "type": "info",
+    "read": true,
+    "createdAt": "2026-07-01T14:00:00Z"
+  },
+  {
+    "id": "notif_010",
+    "title": "Backup Completed",
+    "message": "Daily backup completed successfully.",
+    "type": "success",
+    "read": true,
+    "createdAt": "2026-07-01T15:00:00Z"
+  }
+]

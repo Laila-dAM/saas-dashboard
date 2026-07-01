@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "status": "active",
+    "role": "Administrator",
+    "createdAt": "2026-01-15T09:30:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "status": "active",
+    "role": "Manager",
+    "createdAt": "2026-02-10T13:20:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Michael Johnson",
+    "email": "michael@example.com",
+    "status": "inactive",
+    "role": "Support",
+    "createdAt": "2026-03-05T16:45:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Emily Davis",
+    "email": "emily@example.com",
+    "status": "active",
+    "role": "Developer",
+    "createdAt": "2026-04-12T11:10:00Z"
+  },
+  {
+    "id": "5",
+    "name": "William Brown",
+    "email": "william@example.com",
+    "status": "active",
+    "role": "Designer",
+    "createdAt": "2026-05-18T08:15:00Z"
+  },
+  {
+    "id": "6",
+    "name": "Olivia Wilson",
+    "email": "olivia@example.com",
+    "status": "inactive",
+    "role": "Marketing",
+    "createdAt": "2026-06-01T14:40:00Z"
+  }
+]

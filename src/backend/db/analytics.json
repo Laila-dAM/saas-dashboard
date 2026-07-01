@@ -1,0 +1,51 @@
+{
+  "summary": {
+    "visits": 24320,
+    "signups": 1240,
+    "conversionRate": 5.1,
+    "revenue": 18540,
+    "mrr": 15420,
+    "churnRate": 2.3,
+    "activeUsers": 892,
+    "newUsers": 137
+  },
+  "traffic": [
+    { "day": "Mon", "value": 1200 },
+    { "day": "Tue", "value": 1580 },
+    { "day": "Wed", "value": 1740 },
+    { "day": "Thu", "value": 2100 },
+    { "day": "Fri", "value": 2560 },
+    { "day": "Sat", "value": 2230 },
+    { "day": "Sun", "value": 1980 }
+  ],
+  "revenueHistory": [
+    { "month": "Jan", "value": 8200 },
+    { "month": "Feb", "value": 9100 },
+    { "month": "Mar", "value": 10400 },
+    { "month": "Apr", "value": 12300 },
+    { "month": "May", "value": 14200 },
+    { "month": "Jun", "value": 15420 }
+  ],
+  "userGrowth": [
+    { "month": "Jan", "users": 220 },
+    { "month": "Feb", "users": 340 },
+    { "month": "Mar", "users": 470 },
+    { "month": "Apr", "users": 620 },
+    { "month": "May", "users": 760 },
+    { "month": "Jun", "users": 892 }
+  ],
+  "deviceDistribution": [
+    {
+      "device": "Desktop",
+      "percentage": 61
+    },
+    {
+      "device": "Mobile",
+      "percentage": 31
+    },
+    {
+      "device": "Tablet",
+      "percentage": 8
+    }
+  ]
+}

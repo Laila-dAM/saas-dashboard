@@ -1,0 +1,92 @@
+[
+  {
+    "id": "log_001",
+    "level": "info",
+    "action": "User Login",
+    "message": "Administrator signed in successfully.",
+    "user": "admin@example.com",
+    "ip": "192.168.1.10",
+    "createdAt": "2026-07-01T08:15:32Z"
+  },
+  {
+    "id": "log_002",
+    "level": "info",
+    "action": "User Created",
+    "message": "A new user account was created.",
+    "user": "john@example.com",
+    "ip": "192.168.1.15",
+    "createdAt": "2026-07-01T08:47:18Z"
+  },
+  {
+    "id": "log_003",
+    "level": "warning",
+    "action": "Password Reset",
+    "message": "Password reset requested.",
+    "user": "jane@example.com",
+    "ip": "192.168.1.22",
+    "createdAt": "2026-07-01T09:20:54Z"
+  },
+  {
+    "id": "log_004",
+    "level": "error",
+    "action": "Payment Failed",
+    "message": "Subscription payment could not be processed.",
+    "user": "michael@example.com",
+    "ip": "192.168.1.37",
+    "createdAt": "2026-07-01T10:02:41Z"
+  },
+  {
+    "id": "log_005",
+    "level": "info",
+    "action": "Profile Updated",
+    "message": "User profile information updated.",
+    "user": "emily@example.com",
+    "ip": "192.168.1.44",
+    "createdAt": "2026-07-01T10:38:09Z"
+  },
+  {
+    "id": "log_006",
+    "level": "warning",
+    "action": "Permission Changed",
+    "message": "User role changed from Manager to Administrator.",
+    "user": "william@example.com",
+    "ip": "192.168.1.52",
+    "createdAt": "2026-07-01T11:11:30Z"
+  },
+  {
+    "id": "log_007",
+    "level": "info",
+    "action": "Export Generated",
+    "message": "Analytics report exported as CSV.",
+    "user": "olivia@example.com",
+    "ip": "192.168.1.63",
+    "createdAt": "2026-07-01T11:43:57Z"
+  },
+  {
+    "id": "log_008",
+    "level": "error",
+    "action": "API Error",
+    "message": "Unexpected server error while processing request.",
+    "user": "system",
+    "ip": "127.0.0.1",
+    "createdAt": "2026-07-01T12:05:16Z"
+  },
+  {
+    "id": "log_009",
+    "level": "info",
+    "action": "Subscription Updated",
+    "message": "Plan upgraded from Basic to Pro.",
+    "user": "john@example.com",
+    "ip": "192.168.1.70",
+    "createdAt": "2026-07-01T12:36:28Z"
+  },
+  {
+    "id": "log_010",
+    "level": "warning",
+    "action": "Multiple Login Attempts",
+    "message": "Several unsuccessful login attempts detected.",
+    "user": "unknown",
+    "ip": "203.0.113.25",
+    "createdAt": "2026-07-01T13:14:03Z"
+  }
+]
